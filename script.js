@@ -1,5 +1,6 @@
 function verde()
 {	
+	alert('Teste');
 	document.bgColor = 'green';	
 };
 
