@@ -1,0 +1,52 @@
+.fundo
+{
+	position: absolute;
+	top: 50%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	width: 80%;	
+	text-align: center;	
+}
+
+.cor
+{	
+	display: inline-block;	
+	width: 100px;
+	margin: 10px;
+	height: 100px;
+	padding: 5px;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	text-align: center;	
+	border-radius: 50%;	
+}
+
+.verde
+{
+	background-color: green;
+}
+
+.vermelho
+{
+	background-color: red;
+}
+
+.azul
+{
+	background-color: blue;
+}
+
+.branco
+{
+	background-color: white;
+}
+
+.texto
+{
+	color: black;
+	visibility: hidden;
+	vertical-align: middle;
+}
